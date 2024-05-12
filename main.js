@@ -82,7 +82,7 @@ if (pin_input.Pin == pinCode) {
         console.log("Our loans come with competitive interest rates and flexible repayment terms.");
         console.log("Apply now and take the first step towards achieving your financial goals!");
     }
-}
-else {
-    console.log("You've entered Wrong Pin Code!");
+    else {
+        console.log("You've entered Wrong Pin Code!");
+    }
 }
