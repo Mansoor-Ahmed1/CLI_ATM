@@ -1,7 +1,7 @@
 {
   "name": "cli_atm_by_mansoor",
   "version": "1.0.0",
-  "description": "",
+  "description": "Basic ATM machine on CLI capable of Withdrawing money, Checking balance and Loan information after the user inputs correct Pin Code which is 1246(for testing purpose).",
   "main": "index.js",
   "type": "module",
   "bin": "main.js",
